@@ -1,0 +1,15 @@
+[submodule "MatricesDispersas1"]
+	path = MatricesDispersas1
+	url = https://github.com/Cynosure-Project/MatricesDispersas1.git
+[submodule "Polinomios"]
+	path = Polinomios
+	url = https://github.com/Cynosure-Project/Polinomios.git
+[submodule "MatricesDispersas"]
+	path = MatricesDispersas
+	url = https://github.com/Cynosure-Project/MatricesDispersas.git
+[submodule "ArbolesBinarios"]
+	path = ArbolesBinarios
+	url = https://github.com/Cynosure-Project/ArbolesBinarios.git
+[submodule "Grafos"]
+	path = Grafos
+	url = https://github.com/Cynosure-Project/Grafos.git

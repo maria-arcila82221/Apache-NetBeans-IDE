@@ -12,4 +12,4 @@
 	url = https://github.com/Cynosure-Project/ArbolesBinarios.git
 [submodule "Grafos"]
 	path = Grafos
-	url = https://github.com/Cynosure-Project/Grafos.git
+	url = git@github.com-maria-arcila82221:Cynosure-Project/Grafos.git

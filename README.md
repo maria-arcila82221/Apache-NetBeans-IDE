@@ -1,4 +1,3 @@
-![](https://i.pinimg.com/564x/01/d9/7d/01d97d074809d49c77bc8ded6977dde4.jpg "on Pinterest")
+![image](https://github.com/maria-arcila82221/Apache-NetBeans-IDE/assets/102838284/00d44788-900f-4a80-9683-4d8652526a6b)
 
 # JAVA
-*Projects for the courses of ALGORITMOS Y PROGRAMACION 2 and ALGORITMOS Y PROGRAMACION 3*
